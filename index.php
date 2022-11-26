@@ -18,7 +18,7 @@
 </head>
 
 <body>
-
+    <h1>Hola</h1>
 
     <main>
         <form id="login_form" class="form_class" action="validarusuario.php" method="post">
