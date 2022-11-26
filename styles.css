@@ -1,0 +1,9 @@
+.container{
+    
+    width:  100%;
+}
+
+#centrado{
+    margin: 20 auto;
+    width:80% /* value of your choice which suits your alignment */
+}
